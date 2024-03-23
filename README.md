@@ -60,7 +60,7 @@ Contact Information:
 For inquiries and sales information, please contact:
 
 [Developer/Project Sales Office Contact Information]
-
+.
 Whatsapp : https://wa.me/+919999257848
 ![image](https://github.com/aspiringShoaib/Prateek-Siddharth-Vihar/assets/162789890/2f43548f-61f1-41f9-97a1-73fc17c31a64)
 
